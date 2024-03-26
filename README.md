@@ -1,6 +1,13 @@
 # 🪂 Clara's Portfolio
 🔆 Welcome to my data portfolio! 🔆
 
+## Table of contents:
+
+* [SQL](https://github.com/bachbaongan/Portfolio/blob/main/README.md#sql)
+* [Python](https://github.com/bachbaongan/Portfolio/blob/main/README.md#python)
+* [R](https://github.com/bachbaongan/Portfolio/blob/main/README.md#r)
+* [Tableau](https://github.com/bachbaongan/Portfolio/blob/main/README.md#tableau)
+
 
 ### SQL
 Project Link|	Area of Analysis|	Project Description
