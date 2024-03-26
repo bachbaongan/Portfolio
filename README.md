@@ -8,11 +8,19 @@ Project Link|	Area of Analysis|	Project Description
 8-Week-SQl-Challenge | Data analysis, data cleaning, data transformation |This repo serves as the solution for the 8 case studies from the #8WeekSQLChallenge. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.
 [Customers and Products Analysis](https://github.com/bachbaongan/Portfolio_Data/tree/main/SQL/CPA) | Sales Analysis | Analyze sales records database for scale model cars and extract information for decision-making
 
+### Python 
+Project Link|	Area of Analysis|	Project Description| Libraries
+--- | --- | ---|---
+[Exploring Hackers News Posts](https://github.com/bachbaongan/Portfolio_Data/blob/main/Python/Project%20-%20Exploring%20Hacker%20News%20Posts.ipynb)|Data cleaning, object-oriented programming and data time package|Analysis a popular technology site Hacker News to find out during which hours posts receive the most comments|-
+[Mobile App Profitability Analysis](https://github.com/bachbaongan/Portfolio_Data/blob/main/Python/Project%20Mobile%20App%20Data.ipynb)|EDA	|Identify mobile app profiles that demonstrate profitability within the App Store and Google Play markets. Serving as a data analyst for a company specializing in the development of Android and iOS mobile applications, to empower our team of developers by providing them with data-driven insights, enabling them to make informed decisions regarding the types of apps they create.|-
+
+![image](https://github.com/bachbaongan/Portfolio/assets/144385168/bf65e1e5-d27e-4383-bc5b-be864360ecad)
+
+
 ### R
 Project Link|	Area of Analysis|	Project Description
---- | --- | ---|
+--- | --- | ---
 [Bellabeat Fitness Data Analysis](https://github.com/bachbaongan/Google_Data_Analytics_Bellabeat_Casestudy) | EDA | Analyze the fitness trends within a dataset of 30 users to inform and optimize our company's marketing strategy. Use the Tidyverse package for data manipulation, Lubridate for date attribute handling, Dplyr for data cleansing, Ggplot2 for data visualization, and Readr to export the dataset as a CSV file for subsequent analysis.
-
 ### Tableau
 Project Link |Project Description |	Dashboard Link
 --- | --- | ---|
