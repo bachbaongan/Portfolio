@@ -19,7 +19,7 @@ Project Link|	Project Description
 🏦 [Data Bank](https://github.com/bachbaongan/Project/blob/ba8dfe785b611c200810d2922650323ddc8c8d43/SQL/8_week_SQL_Challenge/Case%20Study%20%234/README.md) |abc
 🛒 [Data Mart](https://github.com/bachbaongan/Project/blob/b5ebc6c5899285dd4bca296a00fc055576b76d94/SQL/8_week_SQL_Challenge/Case%20Study%20%235/README.md) |abc
 🦀 [Clique Bait](https://github.com/bachbaongan/Project/blob/255dc66bd5a7ca2e72800ee46871c7b3986822b3/SQL/8_week_SQL_Challenge/Case%20Study%20%236/README.md) |abc
-👕 [alanced Tree Clothing Co.](https://github.com/bachbaongan/Project/blob/cad07d851c557937dbaf75186f9d3fc1c1712cfb/SQL/8_week_SQL_Challenge/Case%20Study%20%237/README.md) |abc
+👕 [Balanced Tree Clothing Co.](https://github.com/bachbaongan/Project/blob/cad07d851c557937dbaf75186f9d3fc1c1712cfb/SQL/8_week_SQL_Challenge/Case%20Study%20%237/README.md) |abc
 🍊 [Fresh Segments](https://github.com/bachbaongan/Project/blob/3a77becb41a828ea650f3a50db7da1d42e636bbb/SQL/8_week_SQL_Challenge/Case%20Study%20%238/README.md) |abc
 
 
