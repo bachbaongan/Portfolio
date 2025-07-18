@@ -24,20 +24,20 @@ Project Link|	Project Description
 
 
 ### Python 
-Project Link|	Area of Analysis|	Project Description| Libraries
---- | --- | ---|---
-✍️ [Exploring Hackers News Posts](https://github.com/bachbaongan/Portfolio_Data/blob/main/Python/Project%20-%20Exploring%20Hacker%20News%20Posts.ipynb)|Data cleaning and data time package|Analysis a popular technology site Hacker News to find out during which hours posts receive the most comments|-
-📱[Mobile App Profitability Analysis](https://github.com/bachbaongan/Portfolio_Data/blob/main/Python/Project%20Mobile%20App%20Data.ipynb)|EDA	|Identify mobile app profiles that demonstrate profitability within the App Store and Google Play markets. Serving as a data analyst for a company specializing in the development of Android and iOS mobile applications, to empower our team of developers by providing them with data-driven insights, enabling them to make informed decisions regarding the types of apps they create.|-
-🚦[Finding Heavy Traffic Indicators on I-94](https://github.com/bachbaongan/Portfolio_Data/blob/main/Python/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb) |	EDA	|Analysis a dataset about the westbound traffic on the I-94 Interstate highway to determine a few indicators of heavy traffic, considering variables like traffic volume, weather, time of day, and day of the week.|	pandas, matplotlib
-💱[Data Visualization on Exchange Rates](https://github.com/bachbaongan/Portfolio_Data/blob/main/Python/Project%20-%20Data%20Visualization%20on%20Exchange%20Rates.ipynb)|	EDA|	Create impactful data visualizations utilizing exchange rate data. The project encompasses a range of visualization techniques and design principles, such as selecting appropriate chart types, effective colour schemes, and designing intuitive layouts.	|pandas, matplotlib
+Project Link|	Project Description| Libraries
+--- | ---|---
+✍️ [Exploring Hackers News Posts](https://github.com/bachbaongan/Portfolio_Data/blob/main/Python/Project%20-%20Exploring%20Hacker%20News%20Posts.ipynb)|Analysis a popular technology site Hacker News to find out during which hours posts receive the most comments|-
+📱[Mobile App Profitability Analysis](https://github.com/bachbaongan/Portfolio_Data/blob/main/Python/Project%20Mobile%20App%20Data.ipynb)|Identify mobile app profiles that demonstrate profitability within the App Store and Google Play markets. Serving as a data analyst for a company specializing in the development of Android and iOS mobile applications, to empower our team of developers by providing them with data-driven insights, enabling them to make informed decisions regarding the types of apps they create.|-
+🚦[Finding Heavy Traffic Indicators on I-94](https://github.com/bachbaongan/Portfolio_Data/blob/main/Python/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb) |	Analysis a dataset about the westbound traffic on the I-94 Interstate highway to determine a few indicators of heavy traffic, considering variables like traffic volume, weather, time of day, and day of the week.|	pandas, matplotlib
+💱[Data Visualization on Exchange Rates](https://github.com/bachbaongan/Portfolio_Data/blob/main/Python/Project%20-%20Data%20Visualization%20on%20Exchange%20Rates.ipynb)|	Create impactful data visualizations utilizing exchange rate data. The project encompasses a range of visualization techniques and design principles, such as selecting appropriate chart types, effective colour schemes, and designing intuitive layouts.	|pandas, matplotlib
 
 
 
 
 ### R
-Project Link|	Area of Analysis|	Project Description
---- | --- | ---
-🏃‍♀️ [Bellabeat Fitness Data Analysis](https://github.com/bachbaongan/Google_Data_Analytics_Bellabeat_Casestudy) | EDA | Analyze the fitness trends within a dataset of 30 users to inform and optimize our company's marketing strategy. Use the Tidyverse package for data manipulation, Lubridate for date attribute handling, Dplyr for data cleansing, Ggplot2 for data visualization, and Readr to export the dataset as a CSV file for subsequent analysis.
+Project Link|		Project Description
+--- | ---
+🏃‍♀️ [Bellabeat Fitness Data Analysis](https://github.com/bachbaongan/Google_Data_Analytics_Bellabeat_Casestudy) | Analyze the fitness trends within a dataset of 30 users to inform and optimize our company's marketing strategy. Use the Tidyverse package for data manipulation, Lubridate for date attribute handling, Dplyr for data cleansing, Ggplot2 for data visualization, and Readr to export the dataset as a CSV file for subsequent analysis.
 
 ### Tableau
 Project Link |Project Description |	Dashboard Link
