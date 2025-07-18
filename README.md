@@ -8,7 +8,7 @@
 * [R](https://github.com/bachbaongan/Portfolio/blob/main/README.md#r)
 * [Tableau](https://github.com/bachbaongan/Portfolio/blob/main/README.md#tableau)
 
----|---|
+--- | ---|
 [SQL](https://github.com/bachbaongan/Portfolio/blob/main/README.md#sql) | [Python](https://github.com/bachbaongan/Portfolio/blob/main/README.md#python) 
 [R](https://github.com/bachbaongan/Portfolio/blob/main/README.md#r) |[Tableau](https://github.com/bachbaongan/Portfolio/blob/main/README.md#tableau)
 
