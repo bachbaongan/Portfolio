@@ -48,3 +48,40 @@ Project Link |Project Description |	Dashboard Link
 🏃‍♀️ [Bellabeat Fitness Data Analysis](https://github.com/bachbaongan/Google_Data_Analytics_Bellabeat_Casestudy) | Analyze the fitness trends within a dataset of 30 users to inform and optimize our company's marketing strategy. Use the Tidyverse package for data manipulation, Lubridate for date attribute handling, Dplyr for data cleansing, Ggplot2 for data visualization, and Readr to export the dataset as a CSV file for subsequent analysis. |[Dashboard](https://public.tableau.com/app/profile/clara.bach/viz/BellabeatCaseStudy_16964524098930/Dashboard1)
 📚 [Amazon Top 50 Bestselling Books 2019-2022](https://github.com/bachbaongan/Portfolio_Data/tree/main/Visualization/Amazon%20Top%2050%20Bestselling%20books%202009-2022)|Analyze a dataset comprising 550 books, categorized into fiction and non-fiction genres based on Goodreads then built a dashboard in Tableau showing valuable insights into the evolving trends within the book market over the past decade.|[Dashboard](https://public.tableau.com/app/profile/clara.bach/viz/AmazonTop50Bestsellingbooks2009-2022/Dashboard12#1)
 
+
+
+# Data Science Portfolio
+
+This repository showcases a collection of data science projects demonstrating skills in SQL, Python, R, and Tableau.
+
+## SQL Projects
+
+[![SQL](https://img.shields.io/badge/SQL-F8F9FA-blue)](https://www.w3schools.com/sql/)
+
+*   **Project Title 1:** A brief description of the project and its purpose.  *(Add detailed description here: problem statement, data sources, methodology, key findings, and technologies used.)*
+*   **Project Title 2:** Another SQL project focusing on [mention specific area, e.g., data cleaning, database design]. *(Add detailed description here.)*
+*   **Project Title 3:** A SQL project involving [mention specific task, e.g., complex queries, data aggregation]. *(Add detailed description here.)*
+
+## Python Projects
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+
+*   **Project Title 1:** A Python project utilizing [mention specific libraries, e.g., Pandas, NumPy, Scikit-learn] for [mention task, e.g., data analysis, machine learning]. *(Add detailed description here.)*
+*   **Project Title 2:** A Python project focused on [mention specific area, e.g., web scraping, data visualization]. *(Add detailed description here.)*
+*   **Project Title 3:** A Python project involving [mention specific technique, e.g., natural language processing, time series analysis]. *(Add detailed description here.)*
+
+## R Projects
+
+[![R](https://img.shields.io/badge/R-4.x-blue)](https://www.r-project.org/)
+
+*   **Project Title 1:** An R project using [mention specific packages, e.g., dplyr, ggplot2, caret] for [mention task, e.g., statistical modeling, data exploration]. *(Add detailed description here.)*
+*   **Project Title 2:** An R project focused on [mention specific area, e.g., data cleaning, report generation]. *(Add detailed description here.)*
+*   **Project Title 3:** An R project involving [mention specific technique, e.g., regression analysis, hypothesis testing]. *(Add detailed description here.)*
+
+## Tableau Projects
+
+[![Tableau](https://img.shields.io/badge/Tableau-blue)](https://www.tableau.com/)
+
+*   **Project Title 1:** A Tableau project visualizing [mention data type, e.g., sales data, customer demographics] to [mention goal, e.g., identify trends, communicate insights]. *(Add detailed description here. Include a link to the Tableau Public visualization if available.)*
+*   **Project Title 2:** A Tableau project focused on [mention specific area, e.g., interactive dashboards, story telling]. *(Add detailed description here. Include a link to the Tableau Public visualization if available.)*
+*   **Project Title 3:** A Tableau project involving [mention specific technique, e.g., calculated fields, map visualizations]. *(Add detailed description here. Include a link to the Tableau Public visualization if available.)*
