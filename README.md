@@ -12,10 +12,15 @@
 ### SQL
 Project Link|	Project Description
 --- | ---|
-🏆 [8-Week-SQl-Challenge](https://github.com/bachbaongan/Portfolio_Data/tree/main/SQL/8_week_SQL_Challenge)  |This repo serves as the solution for the **8 case studies** from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.
 🚗 [Customers and Products Analysis](https://github.com/bachbaongan/Portfolio_Data/tree/main/SQL/CPA) | Analyze sales records database for scale model cars and extract information for decision-making
 🍜 [Danny's Diner Customer Analysis](https://github.com/bachbaongan/Project/blob/0e0914f346d0ab1adc41c1fed9b2a6fbafabc8d8/SQL/8_week_SQL_Challenge/Case%20Study%20%231/README.md) | Analyzed customer sales data to provide actionable insights into customer spending habits, popular menu items, and the impact of a new loyalty program. Insights were used to calculate customer points and understand program effectiveness.
-🍕[Pizza Runner](https://github.com/bachbaongan/Project/blob/c29b833a44d23fb9d90aef598710852908b41f7a/SQL/8_week_SQL_Challenge/Case%20Study%20%232/README.md) |
+🍕[Pizza Runner](https://github.com/bachbaongan/Project/blob/c29b833a44d23fb9d90aef598710852908b41f7a/SQL/8_week_SQL_Challenge/Case%20Study%20%232/README.md) |abc
+🥑 [Foodie-Fi](https://github.com/bachbaongan/Project/blob/f312e99624ee63163a256cb8ff7c2bb2c868e40e/SQL/8_week_SQL_Challenge/Case%20Study%20%233/README.md) |abc
+🏦 [Data Bank](https://github.com/bachbaongan/Project/blob/ba8dfe785b611c200810d2922650323ddc8c8d43/SQL/8_week_SQL_Challenge/Case%20Study%20%234/README.md) |abc
+🛒 [Data Mart](https://github.com/bachbaongan/Project/blob/b5ebc6c5899285dd4bca296a00fc055576b76d94/SQL/8_week_SQL_Challenge/Case%20Study%20%235/README.md) |abc
+🦀 [Clique Bait](https://github.com/bachbaongan/Project/blob/255dc66bd5a7ca2e72800ee46871c7b3986822b3/SQL/8_week_SQL_Challenge/Case%20Study%20%236/README.md) |abc
+👕 [alanced Tree Clothing Co.](https://github.com/bachbaongan/Project/blob/cad07d851c557937dbaf75186f9d3fc1c1712cfb/SQL/8_week_SQL_Challenge/Case%20Study%20%237/README.md) |abc
+🍊 [Fresh Segments](https://github.com/bachbaongan/Project/blob/3a77becb41a828ea650f3a50db7da1d42e636bbb/SQL/8_week_SQL_Challenge/Case%20Study%20%238/README.md) |abc
 
 
 ### Python 
