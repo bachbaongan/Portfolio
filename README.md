@@ -14,7 +14,7 @@ Project Link|	Project Description
 --- | ---|
 🏆 [8-Week-SQl-Challenge](https://github.com/bachbaongan/Portfolio_Data/tree/main/SQL/8_week_SQL_Challenge)  |This repo serves as the solution for the **8 case studies** from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.
 🚗 [Customers and Products Analysis](https://github.com/bachbaongan/Portfolio_Data/tree/main/SQL/CPA) | Analyze sales records database for scale model cars and extract information for decision-making
-🍜 [Danny's Diner Customer Analysis](https://github.com/bachbaongan/Project/tree/0e0914f346d0ab1adc41c1fed9b2a6fbafabc8d8/SQL/8_week_SQL_Challenge/Case%20Study%20%231) | Analyzed customer sales data to provide actionable insights into customer spending habits, popular menu items, and the impact of a new loyalty program. Insights were used to calculate customer points and understand program effectiveness.
+🍜 [Danny's Diner Customer Analysis](https://github.com/bachbaongan/Project/blob/0e0914f346d0ab1adc41c1fed9b2a6fbafabc8d8/SQL/8_week_SQL_Challenge/Case%20Study%20%231/README.md) | Analyzed customer sales data to provide actionable insights into customer spending habits, popular menu items, and the impact of a new loyalty program. Insights were used to calculate customer points and understand program effectiveness.
 
 ### Python 
 Project Link|	Area of Analysis|	Project Description| Libraries
